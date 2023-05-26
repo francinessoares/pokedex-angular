@@ -6,11 +6,14 @@
 
 ## ✨ Tecnologias
 
-- [Angular](https://angular.io/)
-- Typescript
+- [Angular](https://angular.io/) 15
+- Typescript 
 
 ## 💻 Projeto
-Pokédex na primeira versão apenas com a listagens dos pokemons
+Pokédex na primeira versão com a listagens dos pokemons
+
+![image](https://github.com/francinessoares/pokedex-angular/assets/20801604/dffae17b-febf-437b-86cc-d431d672cc02)
+
 
 ## 🚀 Como executar
 
